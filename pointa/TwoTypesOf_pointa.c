@@ -5,8 +5,8 @@ There are two types of pointa operator.
 
   * : 間接演算子     --> return the value of the address 
 
-
 */
+
 
 #include <stdio.h>
 #include <stdlib.h>
